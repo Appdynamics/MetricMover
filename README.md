@@ -27,7 +27,7 @@ https://github.com/Appdynamics/MetricMover
   c. ./MetricMover.sh <br />
 
 <h2>Current Support</h2>
-1. 4.1 Controller and BT metrics
+4.1 Controller and BT metrics
 
 
 
