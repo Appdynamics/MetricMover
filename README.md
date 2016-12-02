@@ -29,5 +29,4 @@ https://github.com/Appdynamics/MetricMover
 <h2>Current Support</h2>
 4.1 Controller and BT metrics
 
-
-
+For support please email: vir.singh@appdynamics.com
